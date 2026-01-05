@@ -1,9 +1,57 @@
-# DS-SakshiChauhan
-This Data Science project analyzes the relationship between Bitcoin market sentiment and trader behavior using two datasets: Bitcoin Market Sentiment data and Historical Trader Data from Hyperliquid. The entire analysis was conducted using Google Colab, enabling efficient data processing and visualization in a cloud-based environment.<br>
+# Trader Performance Insights – Market Sentiment Analysis
 
-The project includes data cleaning, preprocessing, and merging of both datasets to examine how sentiment trends impact trading volume, trader positions, and profitability. Exploratory Data Analysis (EDA) was performed to identify patterns across bullish, bearish, and neutral market conditions.<br>
+## Overview
 
-Statistical analysis and visualizations were used to uncover correlations between market sentiment and trading decisions, providing insights into trader psychology and market dynamics. The findings can help improve trading strategies, risk assessment, and market understanding.<br>
+This project examines how **Bitcoin market sentiment (Fear vs Greed)** influences **trader performance** using historical Hyperliquid trade data and the Fear & Greed Index. The focus is on identifying behavioral patterns that impact profitability.
 
-Tools & Technologies:
-Python, Pandas, NumPy, Matplotlib/Seaborn, Google Colab
+---
+
+## Data
+
+* **Hyperliquid Trader Data**: Trade-level executions and closed PnL
+* **Fear & Greed Index**: Daily market sentiment classification
+
+Trades are aligned with sentiment using normalized trading dates.
+
+---
+
+## Approach
+
+* Cleaned and standardized raw trade data
+* Merged trades with daily sentiment labels
+* Analyzed performance metrics by sentiment
+* Compared behavior of top vs bottom traders
+* Evaluated trade frequency vs profitability
+
+---
+
+## Key Findings
+
+* Performance varies significantly across sentiment regimes
+* Extreme sentiment periods show clearer outcomes
+* Top traders adapt better to sentiment shifts
+* Overtrading often reduces profitability
+
+---
+
+## Tools
+
+Python, Pandas, NumPy, Matplotlib, Seaborn
+Analysis performed in **Google Colab**
+
+---
+
+## Structure
+
+```
+ds_sakshi_chauhan/
+├── notebook_1.ipynb
+├── outputs/
+├── ds_report.pdf
+└── README.md
+```
+
+---
+
+## Author
+sakshi chauhan
