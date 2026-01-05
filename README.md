@@ -62,4 +62,6 @@ sakshi chauhan
 
 ## Snapshot of the output
 
+![image alt](https://github.com/sakshichauhan4474-rgb/DS-SakshiChauhan/blob/0504be03feb2482e809c39e29a7e3069433f4a1f/Average%20Closed%20PnL%20by%20Market%20Sentiment.png)
+
 
