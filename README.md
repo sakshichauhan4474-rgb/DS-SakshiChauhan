@@ -50,9 +50,6 @@ ds_sakshi_chauhan/
 ├── ds_report.pdf
 └── README.md
 
-'''
-## Snapshot of the output
-
 
 ```
 
@@ -60,3 +57,9 @@ ds_sakshi_chauhan/
 
 ## Author
 sakshi chauhan
+
+---
+
+## Snapshot of the output
+
+
