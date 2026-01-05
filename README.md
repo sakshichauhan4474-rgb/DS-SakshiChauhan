@@ -1,4 +1,9 @@
 # DS-SakshiChauhan
-Bitcoin Market Sentiment and Trader Performance Analysis: Analyzed Bitcoin Market Sentiment and Hyperliquid trader data in Google Colab using Python. Cleaned and combined datasets to study average closed PnL across sentiment types. Visualized performance differences between Top and Bottom traders, showing strong sentiment impact on profitability.<br>
-Tools Used:
-Python, Pandas, Matplotlib, Google Colab
+This Data Science project analyzes the relationship between Bitcoin market sentiment and trader behavior using two datasets: Bitcoin Market Sentiment data and Historical Trader Data from Hyperliquid. The entire analysis was conducted using Google Colab, enabling efficient data processing and visualization in a cloud-based environment.<br>
+
+The project includes data cleaning, preprocessing, and merging of both datasets to examine how sentiment trends impact trading volume, trader positions, and profitability. Exploratory Data Analysis (EDA) was performed to identify patterns across bullish, bearish, and neutral market conditions.<br>
+
+Statistical analysis and visualizations were used to uncover correlations between market sentiment and trading decisions, providing insights into trader psychology and market dynamics. The findings can help improve trading strategies, risk assessment, and market understanding.<br>
+
+Tools & Technologies:
+Python, Pandas, NumPy, Matplotlib/Seaborn, Google Colab
