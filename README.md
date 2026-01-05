@@ -56,7 +56,7 @@ ds_sakshi_chauhan/
 ---
 
 ## Author
-sakshi chauhan
+Sakshi Chauhan
 ---
 
 ## Snapshot of the output
