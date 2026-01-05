@@ -49,6 +49,11 @@ ds_sakshi_chauhan/
 ├── outputs/
 ├── ds_report.pdf
 └── README.md
+
+'''
+## Snapshot of the output
+
+
 ```
 
 ---
